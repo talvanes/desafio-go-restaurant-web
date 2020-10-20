@@ -31,6 +31,14 @@
       "description": "Esse prato é a especialidade da casa. Apenas ingredientes de primeira linha vão aqui.",
       "available": true,
       "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Com Frutos do Mar",
+      "price": "12.20",
+      "description": "Macarrão à moda da casa com frutos do mar, vegetais e funghi secchi. Receita exclusiva.",
+      "available": true,
+      "id": 5
     }
   ]
 }

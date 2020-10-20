@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "À moda da casa",
+      "price": "19.50",
+      "description": "Esse prato é a especialidade da casa. Apenas ingredientes de primeira linha vão aqui.",
+      "available": true,
+      "id": 4
     }
   ]
 }
